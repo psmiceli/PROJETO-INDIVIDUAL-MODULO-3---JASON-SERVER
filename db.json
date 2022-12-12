@@ -1,0 +1,24 @@
+{
+    "Regata": [
+      { "id": 1, "nomes": "Regata Machão Vermelha", "valor": "R$45,99", "tamanho": "M" },
+      { "id": 2, "nomes": "Regata Machão Azul", "valor": "R$45,99", "tamanho": "G" },
+      { "id": 3, "nomes": "Regata Cava Azul", "valor": "R$35,99", "tamanho": "G" },
+      { "id": 4, "nomes": "Regata Cava Azul", "valor": "R$35,99", "tamanho": "GG" },
+      { "id": 5, "nomes": "Regata Machão Verde", "valor": "R$68,99", "tamanho": "XG" }
+    ],
+    "Camisa leve": [
+      { "id": 1, "nomes": "Camisa leve Esporte azul", "valor": "R$40,99", "tamanho": "G" },
+      { "id": 2, "nomes": "Camisa leve Esporte Vermelha", "valor": "R$40,99", "tamanho": "GG" },
+      { "id": 3, "nomes": "Camisa leve social branca", "valor": "R$72,99", "tamanho": "G" },
+      { "id": 3, "nomes": "Camisa leve social preta", "valor": "R$72,99", "tamanho": "M" },
+      { "id": 5, "nomes": "Camisa leve casual verde", "valor": "R$50,99", "tamanho":"M" }
+    ],
+    "Bermuda": [
+        { "id": 1, "nomes": "Bermuda de elástico praia e academia - verde ", "valor": "R$31,99", "tamanho": "M" },
+        { "id": 1, "nomes": "Bermuda de elástico praia e academia - preta ", "valor": "R$31,99", "tamanho": "P" },
+        { "id": 1, "nomes": "Bermuda de elástico praia e academia - Vermelha ", "valor": "R$31,99", "tamanho": "GG" },
+        { "id": 1, "nomes": "Bermuda Tactel surf - azul ", "valor": "R$40,99", "tamanho": "M" },
+        { "id": 1, "nomes": "Bermuda Tactel surf - preta ", "valor": "R$40,99", "tamanho": "G" }
+      ]
+                  
+  }
